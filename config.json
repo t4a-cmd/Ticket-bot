@@ -1,0 +1,13 @@
+{
+    "token": "bot_token",
+    "prefix": "!",
+    "staff":staff role id,
+    "ticket_category": category id,
+    "log_channel_id":logs channel id,
+    "transcript_channel_id": transcript channel id,
+    "ticket_channel_id": ticket pannel channel id,
+    "ticket_panel_name": "Panel de Support",
+    "owner": owner role id
+
+  }
+  
